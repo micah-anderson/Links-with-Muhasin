@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: #B32FF5;
+}
+
+h3 {
+    color: #F55D2F;
+}
+
+h4 {
+    color: #FFD930
+}
+
+p {
+    color: #4DBBFF;
+}
+
+a {
+    color: #38E841;
+}
+
+#bottom-paragraph {
+    color: whitesmoke;
+}
