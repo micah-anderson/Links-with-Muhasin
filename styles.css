@@ -35,6 +35,14 @@ a {
     color: #38E841;
 }
 
+a:active {
+    background-color: gold;
+}
+
 #bottom-paragraph {
     color: whitesmoke;
+}
+
+a:visited {
+    color: mediumpurple;
 }
