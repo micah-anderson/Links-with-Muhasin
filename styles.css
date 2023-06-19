@@ -6,6 +6,15 @@ h1 {
     color: red;
 }
 
+h1:hover {
+    background-color: fuchsia;
+}
+
+/*Multiple Selectors*/
+h1:hover, h2:hover {
+color: hotpink;
+}
+
 h2 {
     color: #B32FF5;
 }
